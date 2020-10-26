@@ -100,3 +100,8 @@ $200 in FAB
 - 3rd place = $X
 
 
+## Appendix
+
+[1] [Apex Fantasy Leagues - Skill-based Fantasy Football Format](https://apexfantasyleagues.com/best-format/)
+
+
